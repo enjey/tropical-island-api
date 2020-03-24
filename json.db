@@ -1,0 +1,12 @@
+{
+  "available_rooms": [
+    {
+      "response": 200,
+      
+      "message": "thanks"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
